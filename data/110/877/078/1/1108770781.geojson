@@ -9,7 +9,7 @@
     "geom:bbox":"-106.60436,35.087329,-106.55072,35.13096",
     "geom:latitude":35.10782,
     "geom:longitude":-106.582252,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":15986862.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 25",
     "uscensus:sldlst":"025",
     "uscensus:statefp":"35",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688493
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487633,
     "wof:geomhash":"cfead3286ba6643025cb004d6725731f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688493
+        }
+    ],
     "wof:id":1108770781,
     "wof:lastmodified":1481487633,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688493,
     "wof:repo":"whosonfirst-data-constituency-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],

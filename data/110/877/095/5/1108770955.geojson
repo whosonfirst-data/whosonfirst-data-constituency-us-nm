@@ -9,7 +9,7 @@
     "geom:bbox":"-106.3738,32.890144,-104.52303,33.748563",
     "geom:latitude":33.36749,
     "geom:longitude":-105.619268,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":6838321720.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 33",
     "uscensus:sldust":"033",
     "uscensus:statefp":"35",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688493
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487673,
     "wof:geomhash":"ed136171763e7d39894974a0b9384b9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688493
+        }
+    ],
     "wof:id":1108770955,
     "wof:lastmodified":1481487673,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688493,
     "wof:repo":"whosonfirst-data-constituency-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],

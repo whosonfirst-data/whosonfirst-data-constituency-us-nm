@@ -9,7 +9,7 @@
     "geom:bbox":"-106.3738,33.13174,-104.262937,34.347442",
     "geom:latitude":33.748091,
     "geom:longitude":-105.276388,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":15538653269.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 59",
     "uscensus:sldlst":"059",
     "uscensus:statefp":"35",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688493
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487646,
     "wof:geomhash":"28a9ab2d739eb78ee72d5851ed40affc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688493
+        }
+    ],
     "wof:id":1108770857,
     "wof:lastmodified":1481487646,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688493,
     "wof:repo":"whosonfirst-data-constituency-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],

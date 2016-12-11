@@ -9,7 +9,7 @@
     "geom:bbox":"-109.04559,36.527315,-108.20642,36.99935",
     "geom:latitude":36.788149,
     "geom:longitude":-108.724944,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":2481297029.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 4",
     "uscensus:sldlst":"004",
     "uscensus:statefp":"35",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688493
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487628,
     "wof:geomhash":"60648ab00e7f1468d8ba782fbcf1fc83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688493
+        }
+    ],
     "wof:id":1108770733,
     "wof:lastmodified":1481487628,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688493,
     "wof:repo":"whosonfirst-data-constituency-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],

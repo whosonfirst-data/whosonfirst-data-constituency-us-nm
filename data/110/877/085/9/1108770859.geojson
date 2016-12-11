@@ -9,7 +9,7 @@
     "geom:bbox":"-106.981,35.217928,-106.66097,35.307102",
     "geom:latitude":35.251957,
     "geom:longitude":-106.843698,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":181268688.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 60",
     "uscensus:sldlst":"060",
     "uscensus:statefp":"35",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688493
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487647,
     "wof:geomhash":"64203d1c79899e21ac1654644b207938",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688493
+        }
+    ],
     "wof:id":1108770859,
     "wof:lastmodified":1481487647,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688493,
     "wof:repo":"whosonfirst-data-constituency-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],

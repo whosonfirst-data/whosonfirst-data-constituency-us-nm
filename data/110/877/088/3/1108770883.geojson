@@ -9,7 +9,7 @@
     "geom:bbox":"-108.33743,36.689325,-108.06861,36.788843",
     "geom:latitude":36.742807,
     "geom:longitude":-108.177306,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":133086358.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 1",
     "uscensus:sldust":"001",
     "uscensus:statefp":"35",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688493
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487655,
     "wof:geomhash":"7ebb36440ebcbecf2f5bd0666be12ce3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688493
+        }
+    ],
     "wof:id":1108770883,
     "wof:lastmodified":1481487655,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688493,
     "wof:repo":"whosonfirst-data-constituency-us-nm",
     "wof:superseded_by":[],
     "wof:supersedes":[],
